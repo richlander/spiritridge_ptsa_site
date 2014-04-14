@@ -1,5 +1,6 @@
 var w = window.innerWidth/1.2;
 var h = window.innerHeight/1.5;
+h = h > 200? h : 200;
 
 /* scale for thermometer 
  * input domain is the Celsius scale (-30°C to 60°C)
