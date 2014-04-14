@@ -50,6 +50,10 @@ rect.mercury{
 	fill: #E74C3C;
 }
 
+section{
+	margin-left: -25px;
+}
+
 article{
 	padding: 1em;
 	margin: 0 auto;
